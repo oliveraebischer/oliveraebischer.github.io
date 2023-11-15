@@ -1,10 +1,10 @@
 # Teaching
 
 ## Courses Taught
-- Urban Economics 101
-- Advanced Econometrics
+- 2023 WiSe: Course - Data Science in Economics - Eine Einführung mit R
+- 2023 SoSe: Tutorial - Empirische Wirtschaftsforschung
 
-## Student Supervision
-- Supervised 10+ Master's theses on Urban Economic topics
+## Consultation Hours
+- Send an Email at oliver.fahrni@awi.uni-heidelberg.de
 
 [Back to Home](index.md)

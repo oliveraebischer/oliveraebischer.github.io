@@ -1,9 +1,9 @@
 # Private Sector
 
-## Consulting Experience
-- Economic advisor for City Planning Department
+## Stratus - Basler & Hofmann
+I work next to my PhD at Stratus - Basler & Hofmann. Stratus is a strategic Portfoliomanagement Software, in which we automate analysis about a clients real estate portfolio.
 
-## Industry Projects
-- Collaborative project with XYZ Corporation on urban development strategies
+## Sustainability in the Real Estate Sector
+At Stratus we develop cutting edge models to estimate the impact of buildings and evaluate scenarios to help decision makers move their portfolio into a more sustainable world. Current hot topics are the calculation and handling of embodied energy, biodiversity and life cycle analysis.
 
 [Back to Home](index.md)
