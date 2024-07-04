@@ -1,10 +1,11 @@
 # Teaching
 
 ## Courses Taught
+- 2024 WiSe: Course - Data Science in Economics - Eine Einführung mit R
 - 2023 WiSe: Course - Data Science in Economics - Eine Einführung mit R
 - 2023 SoSe: Tutorial - Empirische Wirtschaftsforschung
 
-## Consultation Hours
-- Send an Email at oliver.fahrni@awi.uni-heidelberg.de
+## Office Hours
+- Contact me by email at oliver.fahrni@awi.uni-heidelberg.de to schedule a meeting.
 
 [Back to Home](index.md)
