@@ -1,4 +1,4 @@
-# Oliver Fahrni
+# Personal Website of Oliver Fahrni
 
 Welcome to my personal website. I am an Urban Economics PhD applicant at the University of Heidelberg with a passion for research, teaching, and applying economic thinking in the private sector.
 
