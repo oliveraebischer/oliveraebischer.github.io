@@ -6,6 +6,6 @@
 - 2023 SoSe: Tutorial - Empirische Wirtschaftsforschung
 
 ## Office Hours
-- Contact me by email at oliver.fahrni@awi.uni-heidelberg.de to schedule a meeting.
+- Contact me by email to schedule a meeting: oliver.fahrni@awi.uni-heidelberg.de
 
 [Back to Home](index.md)
